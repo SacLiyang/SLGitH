@@ -1,0 +1,15 @@
+After completing this lab, you will be able to:
+
+Explore different Run Options
+
+Rename your notebook
+
+Shut down your notebook
+
+Save and download the notebook
+
+Upload the downloaded notebook
+
+Work with multiple notebooks
+
+Skills Network Labs (SN Labs) is a virtual lab environment used in this course.  Upon clicking "Open Tool" in accordance with IBM Skills Network Privacy policy your Username and Email will be passed to Skills Network Labs and will only be used for communicating important information to enhance your learning experience.
